@@ -1,9 +1,5 @@
 # Mandolin — Elegant TUI Utilities for Node.js
 
-> **Work in progress** — This library is under development. Some APIs may change in upcoming releases.
-
----
-
 ## 🚀 Overview
 
 **Mandolin** is a small collection of utilities for building interactive text-based interfaces (TUI) in **Node.js**. It provides input prompts, interactive selections, animated spinners, and ANSI text styling tools — all fully typed in **TypeScript** and designed for simplicity and extensibility.
